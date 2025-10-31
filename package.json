@@ -1,9 +1,9 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "Appwrite",
+  "description": "appwrite",
   "main": "src/main.js",
-  "author": "eooce",
+  "author": "k871688",
   "license": "MIT",
   "private": false,
   "scripts": {
